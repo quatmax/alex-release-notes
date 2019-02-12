@@ -2,11 +2,9 @@
 
 Release Notes für **ALEX - Der Dienstplanassistent**
 
-[Master](/master){: .btn .btn-blue }
-
-### Stabilize
-
-### Development
+[Master](/alex-release-notes/master){: .btn .btn-green }
+[Master](/alex-release-notes/stabilize){: .btn .btn-orange }
+[Master](/alex-release-notes/development){: .btn .btn-red }
 
 ## Markdown
 
