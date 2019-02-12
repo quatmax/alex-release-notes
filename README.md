@@ -2,7 +2,7 @@
 
 Release Notes für **ALEX - Der Dienstplanassistent**
 
-### Master
+[Master](/master){: .btn .btn-blue }
 
 ### Stabilize
 
