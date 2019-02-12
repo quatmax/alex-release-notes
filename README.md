@@ -1,6 +1,6 @@
 ## Release Notes
 
-Release Notes für **ALEX - Der Dienstplanassitent**
+Release Notes für **ALEX - Der Dienstplanassistent**
 
 ### Master
 
@@ -10,7 +10,5 @@ Release Notes für **ALEX - Der Dienstplanassitent**
 
 ## Markdown
 
-Hilfe zu Markdown:
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hilfe zu Markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
