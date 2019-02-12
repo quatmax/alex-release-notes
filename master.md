@@ -23,7 +23,7 @@ ___
 > fix: [#2152](https://github.com/bitfactory-software/alex/issues/2152) Personal Cockpit App, Initiale Daten können veraltet sein 
 
 2019.3.99.14 **29.01.2019**
-> neu: [#1906](https://github.com/bitfactory-software/alex/issues/1906) Schaltfläche "..." für Windows Stempeluhr zum öffnen der Bildschirmtastatur 
+> neu: [#1906](https://github.com/bitfactory-software/alex/issues/1906)[#1907](https://github.com/bitfactory-software/alex/issues/1907) Schaltfläche "..." für Windows Stempeluhr zum öffnen der Bildschirmtastatur 
 
 2019.3.99.13 **28.01.2019** ***MERGE*** 2019.2.0.7
 
