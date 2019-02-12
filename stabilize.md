@@ -7,6 +7,7 @@ nav_order: 3
 [64 bit](https://s3.amazonaws.com/releases.bitfactory.at.{{page.title}}/ALEX64.zip){: .btn .mr-2 }
 
 ### [2019.06](https://github.com/bitfactory-software/alex/milestone/36) Personal Cockpit (Stempeln beim Login, Login Performance), Genehmigergruppe
+___
 
 2019.5.99.3 **08.02.2019** ***MERGE*** 2019.4.0.2
 
