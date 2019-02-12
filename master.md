@@ -2,6 +2,7 @@
 title: master
 has_children: false
 nav_order: 2
+wiki: https://alex-wiki.bitfactory.at/index.php/
 ---
 
 [64 bit](https://s3.amazonaws.com/releases.bitfactory.at.{{page.title}}/ALEX64.zip){: .btn .mr-2 }
@@ -82,13 +83,14 @@ ___
 > fix: [#1948](https://github.com/bitfactory-software/alex/issues/1948) Planer Cockpit: Personalstand in Echtzeit
 
 2019.3.90.23 **16.12.2018**
-> fix: [https://github.com/bitfactory-software/alex/commit/2e204f780cee804bfceeb7062e1f10f7cacebf37 GCC compile-error)
+> fix: [GCC compile-error](https://github.com/bitfactory-software/alex/commit/2e204f780cee804bfceeb7062e1f10f7cacebf37)
 
 2019.3.90.22 **16.12.2018**
-> fix: [https://github.com/bitfactory-software/alex/commit/746184014d0a36bfff05d53ebaadff80b9346194 GCC compile-error)
+> fix: [GCC compile-error](https://github.com/bitfactory-software/alex/commit/746184014d0a36bfff05d53ebaadff80b9346194)
 
 2019.3.90.21 **14.12.2018**
-> neue Option im [[ALEX-Config-File)) "logging" : { "manualTimeStampProcessor" : "true" }
+> neue Option im [Config]({{page.wiki}}ALEX-Config-File)
+ "logging" : { "manualTimeStampProcessor" : "true" }
 
 2019.3.90.20 **14.12.2018** ***MERGE*** 2019.1.99.12
 
