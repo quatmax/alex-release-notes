@@ -89,8 +89,7 @@ ___
 > fix: [GCC compile-error](https://github.com/bitfactory-software/alex/commit/746184014d0a36bfff05d53ebaadff80b9346194)
 
 2019.3.90.21 **14.12.2018**
-> neue Option im [Config]({{page.wiki}}ALEX-Config-File)
- "logging" : { "manualTimeStampProcessor" : "true" }
+> neue Option im [Config]({{page.wiki}}ALEX-Config-File) `"logging" : { "manualTimeStampProcessor" : "true" }`
 
 2019.3.90.20 **14.12.2018** ***MERGE*** 2019.1.99.12
 
