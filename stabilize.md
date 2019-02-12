@@ -9,6 +9,7 @@ nav_order: 3
 ### [2019.06](https://github.com/bitfactory-software/alex/milestone/36) Personal Cockpit (Stempeln beim Login, Login Performance), Genehmigergruppe
 
 2019.5.99.3 **08.02.2019** 
+
 Merge 2019.4.0.2
 {: .label }
 
