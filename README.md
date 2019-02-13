@@ -8,11 +8,7 @@
 
 [Versionchannel](https://alex.bitfactory.at/VersionChannel){: .btn .btn-blue }
 
-## Markdown
-
 Hilfe zu [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Just the Docs
 
 Hilfe zu [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
