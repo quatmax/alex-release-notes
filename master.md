@@ -58,8 +58,8 @@ ___
 2019.3.99.3 **03.01.2019** ***MERGE*** 2019.2.0.2
 
 2019.3.99.2 **03.01.2019**
-> fix: [#2067](https://github.com/bitfactory-software/alex/issues/2067) Planer Cockpit: Es werden nicht alle Anträge aus GV aus Vergangenheit angezeigt
-> fix: [#2063](https://github.com/bitfactory-software/alex/issues/2063) Planer Cockpit: Unbekannter Fehler bei Stornoantrag
+> fix: [#2067]({{page.github}}issues/2067) Planer Cockpit: Es werden nicht alle Anträge aus GV aus Vergangenheit angezeigt
+> fix: [#2063]({{page.github}}issues/2063) Planer Cockpit: Unbekannter Fehler bei Stornoantrag
 
 2019.3.99.1 **03.01.2019** ***MERGE*** 2019.2.0.1
 
@@ -67,28 +67,28 @@ ___
 > wird stabilisiert
 
 2019.3.90.29 **29.12.2018**
-> fix: [#2046](https://github.com/bitfactory-software/alex/issues/2046) "Fehlermarkierung: Planungscode ersetzen" funktioniert nicht
+> fix: [#2046]({{page.github}}issues/2046) "Fehlermarkierung: Planungscode ersetzen" funktioniert nicht
 
 2019.3.90.28 **29.12.2018**
-> fix: [#2025](https://github.com/bitfactory-software/alex/issues/2025) Änderung von WZM - genehmigter Urlaub bleibt mit "altem" Dienst stehen
+> fix: [#2025]({{page.github}}issues/2025) Änderung von WZM - genehmigter Urlaub bleibt mit "altem" Dienst stehen
 
 2019.3.90.27 **28.12.2018**
 > fix für Bfx.Alex.Model.TestAbsencesExport auf linux
 
 2019.3.90.26 **20.12.2018**
-> fix: [#2052](https://github.com/bitfactory-software/alex/issues/2052) Bfx.Run.ReferenceDBs - RegDB's nutzten Prozessor nicht mehr anständig aus
+> fix: [#2052]({{page.github}}issues/2052) Bfx.Run.ReferenceDBs - RegDB's nutzten Prozessor nicht mehr anständig aus
 
 2019.3.90.25 **17.12.2018**
-> fix: [#2043](https://github.com/bitfactory-software/alex/issues/2043) Personalstand in Echtzeit: farbliche Hervorhebung von Anwesenheit
+> fix: [#2043]({{page.github}}issues/2043) Personalstand in Echtzeit: farbliche Hervorhebung von Anwesenheit
 
 2019.3.90.24 **17.12.2018**
-> fix: [#1948](https://github.com/bitfactory-software/alex/issues/1948) Planer Cockpit: Personalstand in Echtzeit
+> fix: [#1948]({{page.github}}issues/1948) Planer Cockpit: Personalstand in Echtzeit
 
 2019.3.90.23 **16.12.2018**
-> fix: [GCC compile-error](https://github.com/bitfactory-software/alex/commit/2e204f780cee804bfceeb7062e1f10f7cacebf37)
+> fix: [GCC compile-error]({{page.github}}commit/2e204f780cee804bfceeb7062e1f10f7cacebf37)
 
 2019.3.90.22 **16.12.2018**
-> fix: [GCC compile-error](https://github.com/bitfactory-software/alex/commit/746184014d0a36bfff05d53ebaadff80b9346194)
+> fix: [GCC compile-error]({{page.github}}commit/746184014d0a36bfff05d53ebaadff80b9346194)
 
 2019.3.90.21 **14.12.2018**
 > neue Option im [Config]({{page.wiki}}ALEX-Config-File) `"logging" : { "manualTimeStampProcessor" : "true" }`
@@ -96,57 +96,57 @@ ___
 2019.3.90.20 **14.12.2018** ***MERGE*** 2019.1.99.12
 
 2019.3.90.19 **13.12.2018**
-> fix: [#2037](https://github.com/bitfactory-software/alex/issues/2037) "Testfall kopieren": unbekannter Fehler bei untermonatigem Ein-/Austritt
-> fix: [#2040](https://github.com/bitfactory-software/alex/issues/2040) remove unused code "ForeachOutputElem"
+> fix: [#2037]({{page.github}}issues/2037) "Testfall kopieren": unbekannter Fehler bei untermonatigem Ein-/Austritt
+> fix: [#2040]({{page.github}}issues/2040) remove unused code "ForeachOutputElem"
 
 2019.3.90.18 **13.12.2018**
-> fix: [#2034](https://github.com/bitfactory-software/alex/issues/2034) source\.vs Ordner sollte nicht unter Sourcecodeverwaltung sein
-> fix: [#2032](https://github.com/bitfactory-software/alex/issues/2032) Http Server muss Url decodieren
-> fix: [#1735](https://github.com/bitfactory-software/alex/issues/1735) Anlage von Abschlussbuchungen: Anzeig nicht vollständig, sieht aus als ob nichts hinterlegt wäre
+> fix: [#2034]({{page.github}}issues/2034) source\.vs Ordner sollte nicht unter Sourcecodeverwaltung sein
+> fix: [#2032]({{page.github}}issues/2032) Http Server muss Url decodieren
+> fix: [#1735]({{page.github}}issues/1735) Anlage von Abschlussbuchungen: Anzeig nicht vollständig, sieht aus als ob nichts hinterlegt wäre
 
 2019.3.90.17 **13.12.2018** ***MERGE*** 2019.1.99.11
 
 2019.3.90.16 **12.12.2018**
-> fix [#2014](https://github.com/bitfactory-software/alex/issues/2014) ..ExportRef != ...ExportTest auf Linux
+> fix [#2014]({{page.github}}issues/2014) ..ExportRef != ...ExportTest auf Linux
 
 2019.3.90.15 **12.12.2018** ***MERGE*** 2019.1.99.9
 
 2019.3.90.14 **11.12.2018** ***MERGE*** 2019.1.99.7
 
 2019.3.90.13 **11.12.2018**
-> fix: [#1687](https://github.com/bitfactory-software/alex/issues/1687) Referenzfall duplizieren mit alles (Personal, einzeln oder multiselect)
-> fix: [#1688](https://github.com/bitfactory-software/alex/issues/1688) Referenz-Plan duplizieren
+> fix: [#1687]({{page.github}}issues/1687) Referenzfall duplizieren mit alles (Personal, einzeln oder multiselect)
+> fix: [#1688]({{page.github}}issues/1688) Referenz-Plan duplizieren
 
 2019.3.90.12 **10.12.2018**
-> fix: [#2016](https://github.com/bitfactory-software/alex/issues/2016) ÖAMTC Wien: "Wochenfehler markieren mit" auf Vertrag benötigt
+> fix: [#2016]({{page.github}}issues/2016) ÖAMTC Wien: "Wochenfehler markieren mit" auf Vertrag benötigt
 
 2019.3.90.11 **10.12.2018**
-> fix: [#2015](https://github.com/bitfactory-software/alex/issues/2015) Planer Cockpit: Genehmigung direkt im Cockpit -> Anträge bleiben stehen
-> fix: [#2008](https://github.com/bitfactory-software/alex/issues/2008) Planer Cockpit: sehe alle Planungseinheiten und nicht nur die, die ich unter Monatsplansuche sehe
+> fix: [#2015]({{page.github}}issues/2015) Planer Cockpit: Genehmigung direkt im Cockpit -> Anträge bleiben stehen
+> fix: [#2008]({{page.github}}issues/2008) Planer Cockpit: sehe alle Planungseinheiten und nicht nur die, die ich unter Monatsplansuche sehe
 
 2019.3.90.10 **10.12.2018**
-> fix zu: [#2009](https://github.com/bitfactory-software/alex/issues/2009) Planer Cockpit: Sehe keine offenen Anträge von "nicht erzeugten" Monaten
+> fix zu: [#2009]({{page.github}}issues/2009) Planer Cockpit: Sehe keine offenen Anträge von "nicht erzeugten" Monaten
 
 2019.3.90.9 **10.12.2018** ***MERGE*** 2019.1.99.6
 
 2019.3.90.8 **10.12.2018**
-> neu: [#1854](https://github.com/bitfactory-software/alex/issues/1854) "Bildschirmeinstellungen" : "Di., Do. u. Samstag mit gleicher Hintergrundfarbe?"
+> neu: [#1854]({{page.github}}issues/1854) "Bildschirmeinstellungen" : "Di., Do. u. Samstag mit gleicher Hintergrundfarbe?"
 
 2019.3.90.7 **07.12.2018**
-> fix: [#2010](https://github.com/bitfactory-software/alex/issues/2010) Planer Cockpit geöffnet -> Eintragen im Dienstplan sehr langsam
-> fix: [#2009](https://github.com/bitfactory-software/alex/issues/2009) Planer Cockpit: Sehe keine offenen Anträge von "nicht erzeugten" Monaten 
+> fix: [#2010]({{page.github}}issues/2010) Planer Cockpit geöffnet -> Eintragen im Dienstplan sehr langsam
+> fix: [#2009]({{page.github}}issues/2009) Planer Cockpit: Sehe keine offenen Anträge von "nicht erzeugten" Monaten 
 
 2019.3.90.6 **07.12.2018** ***MERGE*** 2019.1.99.4
 
 2019.3.90.5 **05.12.2018**
-> fix: [#1854](https://github.com/bitfactory-software/alex/issues/1854) Erweiterungen der "Timeline-Darstellung"
+> fix: [#1854]({{page.github}}issues/1854) Erweiterungen der "Timeline-Darstellung"
 
 2019.3.90.4 **05.12.2018**
-> fix: [#1944](https://github.com/bitfactory-software/alex/issues/1944) PlanerCockpit: Bessere Sichtbarkeit der einzelnen Module
-> fix: [#1945](https://github.com/bitfactory-software/alex/issues/1945) PlanerCockpit-Module: Azg + Zeiterfassung gehen in "Statusübersicht" auf
+> fix: [#1944]({{page.github}}issues/1944) PlanerCockpit: Bessere Sichtbarkeit der einzelnen Module
+> fix: [#1945]({{page.github}}issues/1945) PlanerCockpit-Module: Azg + Zeiterfassung gehen in "Statusübersicht" auf
 
 2019.3.90.3 **05.12.2018**
-> fix: [#1829](https://github.com/bitfactory-software/alex/issues/1829) Regression Tests für Exports (Lohnarten/Abwesenheiten) 
+> fix: [#1829]({{page.github}}issues/1829) Regression Tests für Exports (Lohnarten/Abwesenheiten) 
 
 2019.3.90.2 **04.12.2018** ***MERGE*** 2019.1.99.2
 

@@ -1,4 +1,18 @@
-## Release Notes
+---
+title: Release Notes
+has_children: false
+wiki: https://alex-wiki.bitfactory.at/index.php/
+s3: https://s3.amazonaws.com/releases.bitfactory.at.
+github: https://github.com/bitfactory-software/alex/
+---
+
+
+## {{page.title}}
+
+|[Master](/alex-release-notes/master){: .btn .btn-green .mr-2 }| [Stabilize](/alex-release-notes/stabilize){: .btn .mr-2 }| [Development](/alex-release-notes/development){: .btn }|
+|:-------------|:------------------|:------|
+|[64 bit]({{page.s3}}master/ALEX64.zip){: .btn .mr-2 }|[64 bit]({{page.s3}}stabilize/ALEX64.zip){: .btn .mr-2 }|[64 bit]({{page.s3}}development/ALEX64.zip){: .btn .mr-2 }|
+|[32 bit]({{page.s3}}master/ALEX32.zip){: .btn .mr-2 }|||
 
 [Master](/alex-release-notes/master){: .btn .btn-green .mr-2 }
 [Stabilize](/alex-release-notes/stabilize){: .btn .mr-2 }
@@ -11,4 +25,8 @@
 ## Markdown
 
 Hilfe zu [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## Just the Docs
+
+Hilfe zu [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
