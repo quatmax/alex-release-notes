@@ -1,13 +1,10 @@
 ---
-title: Release Notes
-has_children: false
 wiki: https://alex-wiki.bitfactory.at/index.php/
 s3: https://s3.amazonaws.com/releases.bitfactory.at.
 github: https://github.com/bitfactory-software/alex/
 ---
 
-
-## {{page.title}}
+## Release Notes
 
 |[Master](/alex-release-notes/master){: .btn .btn-green .mr-2 }| [Stabilize](/alex-release-notes/stabilize){: .btn .mr-2 }| [Development](/alex-release-notes/development){: .btn }|
 |:-------------|:------------------|:------|
