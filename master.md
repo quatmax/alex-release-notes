@@ -3,55 +3,57 @@ title: master
 has_children: false
 nav_order: 2
 wiki: https://alex-wiki.bitfactory.at/index.php/
+s3: https://s3.amazonaws.com/releases.bitfactory.at.
+github: https://github.com/bitfactory-software/alex/
 ---
 
-[64 bit](https://s3.amazonaws.com/releases.bitfactory.at.{{page.title}}/ALEX64.zip){: .btn .mr-2 }
-[32 bit](https://s3.amazonaws.com/releases.bitfactory.at.{{page.title}}/ALEX32.zip){: .btn .mr-2 }
+[64 bit]({{page.s3}}{{page.title}}/ALEX64.zip){: .btn .mr-2 }
+[32 bit]({{page.s3}}{{page.title}}/ALEX32.zip){: .btn .mr-2 }
 
-### [2019.04](https://github.com/bitfactory-software/alex/milestone/32) Regression Tests für Exports, Planer Cockpit
+### [2019.04]({{page.github}}milestone/32) Regression Tests für Exports, Planer Cockpit
 ___
 
 2019.4.0.2 **08.02.2019**
->fix: [#2174](https://github.com/bitfactory-software/alex/issues/2174) Nach wechsel im Reiter, Dienst einer anderen PE kann eingetragen werden (Poolzuteilung) 
+>fix: [#2174]({{page.github}}issues/2174) Nach wechsel im Reiter, Dienst einer anderen PE kann eingetragen werden (Poolzuteilung) 
 
 2019.4.0.1 **05.02.2019**
->fix: [#2166](https://github.com/bitfactory-software/alex/issues/2166) Absturz 32bit Version beim durchrechnen 
+>fix: [#2166]({{page.github}}issues/2166) Absturz 32bit Version beim durchrechnen 
 
 2019.4.0.0 **04.02.2019**
 > Release
 
 2019.3.99.15 **04.02.2019**
-> fix: [#2152](https://github.com/bitfactory-software/alex/issues/2152) Personal Cockpit App, Initiale Daten können veraltet sein 
+> fix: [#2152]({{page.github}}issues/2152) Personal Cockpit App, Initiale Daten können veraltet sein 
 
 2019.3.99.14 **29.01.2019**
-> neu: [#1906](https://github.com/bitfactory-software/alex/issues/1906)[#1907](https://github.com/bitfactory-software/alex/issues/1907) Schaltfläche "..." für Windows Stempeluhr zum öffnen der Bildschirmtastatur 
+> neu: [#1906]({{page.github}}issues/1906)[#1907]({{page.github}}issues/1907) Schaltfläche "..." für Windows Stempeluhr zum öffnen der Bildschirmtastatur 
 
 2019.3.99.13 **28.01.2019** ***MERGE*** 2019.2.0.7
 
 2019.3.99.12 **25.01.2019**
-> fix: [#2132](https://github.com/bitfactory-software/alex/issues/2132) Memory Leak in Computation!
+> fix: [#2132]({{page.github}}issues/2132) Memory Leak in Computation!
 
 2019.3.99.11 **22.01.2019** ***MERGE*** 2019.2.0.6
 
 2019.3.99.10 **21.01.2019** ***MERGE*** 2019.2.0.5
 
 2019.3.99.9 **18.01.2019**
-> fix: [#2111](https://github.com/bitfactory-software/alex/issues/2111) Cockpit App, Wenn Abwesenheit gestempelt --> wird das Kommt/Geht vertauscht (v0.0.35)
+> fix: [#2111]({{page.github}}issues/2111) Cockpit App, Wenn Abwesenheit gestempelt --> wird das Kommt/Geht vertauscht (v0.0.35)
 
 2019.3.99.8 **15.01.2019** ***MERGE*** 2019.2.0.4
 
 2019.3.99.7 **11.01.2019**
-> neu: [#2075](https://github.com/bitfactory-software/alex/issues/2075) WebAssembly Offline-fähige Stempeluhr ausliefern
+> neu: [#2075]({{page.github}}issues/2075) WebAssembly Offline-fähige Stempeluhr ausliefern
 >> Stempeluhr Offline-fähig(Stempeln wenn ALEX Server gestoppt) solange Seite offen bleibt, Seite neu laden oder Browser neu öffnen wird auch diese Stempeluhr vermutlich nicht überleben
 >> Erreichbar über Link(z.B.: CRM): https://alex.bitfactory.at:43000/wasm/Recorder/App.html
 
 2019.3.99.6 **10.01.2019**
-> neu: [#2089](https://github.com/bitfactory-software/alex/issues/2089) bfx_RecomputeLog: beim Einchecken gehen Ordner "...AbsencesExportRef" u. "...WageAccountingExportRef" verloren
+> neu: [#2089]({{page.github}}issues/2089) bfx_RecomputeLog: beim Einchecken gehen Ordner "...AbsencesExportRef" u. "...WageAccountingExportRef" verloren
 
 2019.3.99.5 **07.01.2019** ***MERGE*** 2019.2.0.3
 
 2019.3.99.4 **07.01.2019**
-> neu: [#1987](https://github.com/bitfactory-software/alex/issues/1987) - Unterstützung für neueste Personal Cockpit App Version
+> neu: [#1987]({{page.github}}issues/1987) - Unterstützung für neueste Personal Cockpit App Version
 
 2019.3.99.3 **03.01.2019** ***MERGE*** 2019.2.0.2
 
