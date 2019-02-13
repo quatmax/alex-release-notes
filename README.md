@@ -1,10 +1,5 @@
 ## Release Notes
 
-|[Master](/alex-release-notes/master){: .btn .btn-green .mr-2 }| [Stabilize](/alex-release-notes/stabilize){: .btn .mr-2 }| [Development](/alex-release-notes/development){: .btn }|
-|:-------------|:------------------|:------|
-|[64 bit]({{page.s3}}master/ALEX64.zip){: .btn .mr-2 }|[64 bit]({{page.s3}}stabilize/ALEX64.zip){: .btn .mr-2 }|[64 bit]({{page.s3}}development/ALEX64.zip){: .btn .mr-2 }|
-|[32 bit]({{page.s3}}master/ALEX32.zip){: .btn .mr-2 }|||
-
 [Master](/alex-release-notes/master){: .btn .btn-green .mr-2 }
 [Stabilize](/alex-release-notes/stabilize){: .btn .mr-2 }
 [Development](/alex-release-notes/development){: .btn }
