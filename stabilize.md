@@ -12,6 +12,14 @@ github: https://github.com/bitfactory-software/alex/
 ### [2019.06]({{page.github}}milestone/36) Personal Cockpit (Stempeln beim Login, Login Performance), Genehmigergruppe
 ___
 
+2019.5.99.6 **14.02.2019**
+>fix: [#2188]({{page.github}}issues/2188) Template Shifts: Ausdruck Woche Schriftart zu klein bei "Zeitstempel"
+
+2019.5.99.5 **14.02.2019**
+>fix: [#2182]({{page.github}}issues/2182) Template Shifts: Nicht in Ausdruck anzeigen
+
+2019.5.99.4 **14.02.2019** ***MERGE*** 2019.4.0.3
+
 2019.5.99.3 **08.02.2019** ***MERGE*** 2019.4.0.2
 
 2019.5.99.2 **05.02.2019** ***MERGE*** 2019.4.0.1
