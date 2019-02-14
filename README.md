@@ -12,3 +12,4 @@ Hilfe zu [GitHub Flavored Markdown](https://guides.github.com/features/mastering
 
 Hilfe zu [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
+<span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</span>
