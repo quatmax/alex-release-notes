@@ -5,7 +5,7 @@ nav_order: 4
 wiki: https://alex-wiki.bitfactory.at/index.php/
 s3: https://s3.amazonaws.com/releases.bitfactory.at.
 github: https://github.com/bitfactory-software/alex/
-merge: <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</span>
+merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b>
 ---
 
 [64 bit]({{page.s3}}{{page.title}}/ALEX64.zip){: .btn .mr-2 }
