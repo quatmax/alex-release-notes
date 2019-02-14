@@ -13,6 +13,9 @@ github: https://github.com/bitfactory-software/alex/
 ### [2019.04]({{page.github}}milestone/32) Regression Tests für Exports, Planer Cockpit
 ___
 
+2019.4.0.3 **14.02.2019**
+>fix: [#2197]({{page.github}}issues/2197) Upgrade auf VC 15.9.7: mögliche Abstürze durch alte Compilerversion 
+
 2019.4.0.2 **08.02.2019**
 >fix: [#2174]({{page.github}}issues/2174) Nach wechsel im Reiter, Dienst einer anderen PE kann eingetragen werden (Poolzuteilung) 
 
