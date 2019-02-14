@@ -5,6 +5,7 @@ nav_order: 2
 wiki: https://alex-wiki.bitfactory.at/index.php/
 s3: https://s3.amazonaws.com/releases.bitfactory.at.
 github: https://github.com/bitfactory-software/alex/
+merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b>
 ---
 
 [64 bit]({{page.s3}}{{page.title}}/ALEX64.zip){: .btn .mr-2 }
@@ -31,19 +32,19 @@ ___
 2019.3.99.14 **29.01.2019**
 > neu: [#1906]({{page.github}}issues/1906)[#1907]({{page.github}}issues/1907) Schaltfläche "..." für Windows Stempeluhr zum öffnen der Bildschirmtastatur 
 
-2019.3.99.13 **28.01.2019** ***MERGE*** 2019.2.0.7
+2019.3.99.13 **28.01.2019** {{page.merge}} 2019.2.0.7
 
 2019.3.99.12 **25.01.2019**
 > fix: [#2132]({{page.github}}issues/2132) Memory Leak in Computation!
 
-2019.3.99.11 **22.01.2019** ***MERGE*** 2019.2.0.6
+2019.3.99.11 **22.01.2019** {{page.merge}} 2019.2.0.6
 
-2019.3.99.10 **21.01.2019** ***MERGE*** 2019.2.0.5
+2019.3.99.10 **21.01.2019** {{page.merge}} 2019.2.0.5
 
 2019.3.99.9 **18.01.2019**
 > fix: [#2111]({{page.github}}issues/2111) Cockpit App, Wenn Abwesenheit gestempelt --> wird das Kommt/Geht vertauscht (v0.0.35)
 
-2019.3.99.8 **15.01.2019** ***MERGE*** 2019.2.0.4
+2019.3.99.8 **15.01.2019** {{page.merge}} 2019.2.0.4
 
 2019.3.99.7 **11.01.2019**
 > neu: [#2075]({{page.github}}issues/2075) WebAssembly Offline-fähige Stempeluhr ausliefern
@@ -53,18 +54,18 @@ ___
 2019.3.99.6 **10.01.2019**
 > neu: [#2089]({{page.github}}issues/2089) bfx_RecomputeLog: beim Einchecken gehen Ordner "...AbsencesExportRef" u. "...WageAccountingExportRef" verloren
 
-2019.3.99.5 **07.01.2019** ***MERGE*** 2019.2.0.3
+2019.3.99.5 **07.01.2019** {{page.merge}} 2019.2.0.3
 
 2019.3.99.4 **07.01.2019**
 > neu: [#1987]({{page.github}}issues/1987) - Unterstützung für neueste Personal Cockpit App Version
 
-2019.3.99.3 **03.01.2019** ***MERGE*** 2019.2.0.2
+2019.3.99.3 **03.01.2019** {{page.merge}} 2019.2.0.2
 
 2019.3.99.2 **03.01.2019**
 > fix: [#2067]({{page.github}}issues/2067) Planer Cockpit: Es werden nicht alle Anträge aus GV aus Vergangenheit angezeigt
 > fix: [#2063]({{page.github}}issues/2063) Planer Cockpit: Unbekannter Fehler bei Stornoantrag
 
-2019.3.99.1 **03.01.2019** ***MERGE*** 2019.2.0.1
+2019.3.99.1 **03.01.2019** {{page.merge}} 2019.2.0.1
 
 2019.3.99.0 **02.01.2019**
 > wird stabilisiert
@@ -96,7 +97,7 @@ ___
 2019.3.90.21 **14.12.2018**
 > neue Option im [Config]({{page.wiki}}ALEX-Config-File) `"logging" : { "manualTimeStampProcessor" : "true" }`
 
-2019.3.90.20 **14.12.2018** ***MERGE*** 2019.1.99.12
+2019.3.90.20 **14.12.2018** {{page.merge}} 2019.1.99.12
 
 2019.3.90.19 **13.12.2018**
 > fix: [#2037]({{page.github}}issues/2037) "Testfall kopieren": unbekannter Fehler bei untermonatigem Ein-/Austritt
@@ -107,14 +108,14 @@ ___
 > fix: [#2032]({{page.github}}issues/2032) Http Server muss Url decodieren
 > fix: [#1735]({{page.github}}issues/1735) Anlage von Abschlussbuchungen: Anzeig nicht vollständig, sieht aus als ob nichts hinterlegt wäre
 
-2019.3.90.17 **13.12.2018** ***MERGE*** 2019.1.99.11
+2019.3.90.17 **13.12.2018** {{page.merge}} 2019.1.99.11
 
 2019.3.90.16 **12.12.2018**
 > fix [#2014]({{page.github}}issues/2014) ..ExportRef != ...ExportTest auf Linux
 
-2019.3.90.15 **12.12.2018** ***MERGE*** 2019.1.99.9
+2019.3.90.15 **12.12.2018** {{page.merge}} 2019.1.99.9
 
-2019.3.90.14 **11.12.2018** ***MERGE*** 2019.1.99.7
+2019.3.90.14 **11.12.2018** {{page.merge}} 2019.1.99.7
 
 2019.3.90.13 **11.12.2018**
 > fix: [#1687]({{page.github}}issues/1687) Referenzfall duplizieren mit alles (Personal, einzeln oder multiselect)
@@ -130,7 +131,7 @@ ___
 2019.3.90.10 **10.12.2018**
 > fix zu: [#2009]({{page.github}}issues/2009) Planer Cockpit: Sehe keine offenen Anträge von "nicht erzeugten" Monaten
 
-2019.3.90.9 **10.12.2018** ***MERGE*** 2019.1.99.6
+2019.3.90.9 **10.12.2018** {{page.merge}} 2019.1.99.6
 
 2019.3.90.8 **10.12.2018**
 > neu: [#1854]({{page.github}}issues/1854) "Bildschirmeinstellungen" : "Di., Do. u. Samstag mit gleicher Hintergrundfarbe?"
@@ -139,7 +140,7 @@ ___
 > fix: [#2010]({{page.github}}issues/2010) Planer Cockpit geöffnet -> Eintragen im Dienstplan sehr langsam
 > fix: [#2009]({{page.github}}issues/2009) Planer Cockpit: Sehe keine offenen Anträge von "nicht erzeugten" Monaten 
 
-2019.3.90.6 **07.12.2018** ***MERGE*** 2019.1.99.4
+2019.3.90.6 **07.12.2018** {{page.merge}} 2019.1.99.4
 
 2019.3.90.5 **05.12.2018**
 > fix: [#1854]({{page.github}}issues/1854) Erweiterungen der "Timeline-Darstellung"
@@ -151,9 +152,9 @@ ___
 2019.3.90.3 **05.12.2018**
 > fix: [#1829]({{page.github}}issues/1829) Regression Tests für Exports (Lohnarten/Abwesenheiten) 
 
-2019.3.90.2 **04.12.2018** ***MERGE*** 2019.1.99.2
+2019.3.90.2 **04.12.2018** {{page.merge}} 2019.1.99.2
 
-2019.3.90.1 **04.12.2018** ***MERGE*** 2019.1.99.1
+2019.3.90.1 **04.12.2018** {{page.merge}} 2019.1.99.1
 
 2019.3.90.0 **03.12.2018**
 > Init
