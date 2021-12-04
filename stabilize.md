@@ -1,5 +1,5 @@
 ---
-title: stabilize
+title: stabilize 
 has_children: false
 nav_order: 3
 wiki: https://alex-wiki.bitfactory.at/index.php/
