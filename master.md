@@ -8,9 +8,9 @@ github: https://github.com/bitfactory-software/alex/
 issue: https://github.com/bitfactory-software/alex/issues
 merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b>
 ---
-[Version 2026](Intern:Version_2026_History)
+[[Intern:Version_2026_History|Version 2026]]
 
-[Version 2024](Intern:Version_2024_History)
+[[Intern:Version_2024_History|Version 2024]]
 
 ## in Entwicklung
 ### [2025.16]({{page.github}}milestone/122)
@@ -159,7 +159,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 > Init
 
 ## stabil
-### [{{page.github}}milestone/119](2025.12) Verbesserungen xtrace, Zeitgeist
+### [2025.12]({{page.github}}milestone/119) Verbesserungen xtrace, Zeitgeist
 
 2025.12.0.3 **04.06.2025**
 > fix [#11558]({{page.github}}issues/11558) "Hauptseite" funktioniert nicht mehr
@@ -417,7 +417,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 
 2025.11.90.0 **31.03.2025**
 
-### [{{page.github}}milestone/118](2025.10)  Zeitkontomarkierung
+### [2025.10]({{page.github}}milestone/118)  Zeitkontomarkierung
 
 2025.10.0.1 **14.05.2025**
 > Upgrade to VC++ 1944
@@ -646,7 +646,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 2025.9.90.0 **03.03.2025**
 > Init
 
-### [{{page.github}}milestone/116](2025.08) Berechnungsnachverfolgung: "Steuernde Parameter" + "Rechengang anzeigen" (neu)
+### [2025.08]({{page.github}}milestone/116) Berechnungsnachverfolgung: "Steuernde Parameter" + "Rechengang anzeigen" (neu)
 
 2025.8.0.1 **02.04.2025**
 > fix [#11382]({{page.github}}issues/11382) <code>Jetzt einfrieren auf</code> war außerhalb von QA vorhanden
@@ -907,7 +907,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 2025.7.90.0 **03.02.2025**
 > Init
 
-### [{{page.github}}milestone/115](2025.06)
+### [2025.06]({{page.github}}milestone/115)
 
 2025.6.0.8 **24.03.2025**
 > intern [#11345]({{page.github}}issues/11345) at.ri.ghz: Absturz beim Öffnen Dienstplan März
@@ -1156,7 +1156,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 2025.5.90.0 **13.01.2025**
 > Init
 
-### [{{page.github}}milestone/114](2025.04) Stabilität HausALEX, Extras in Cockpit, Zeitgeist am Server laufen lassen
+### [2025.04]({{page.github}}milestone/114) Stabilität HausALEX, Extras in Cockpit, Zeitgeist am Server laufen lassen
 
 2025.4.0.2 **03.02.2025**
 > fix zu [#11137]({{page.github}}issues/11137) Mondi Frantschach -> Absturz bei Konto-Report ausführen behoben
@@ -1439,7 +1439,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 2025.3.90.0 **02.12.2024**
 > Init
 
-### [{{page.github}}milestone/112](2025.02) neue 3rdParty, Mongo 5.0
+### [2025.02]({{page.github}}milestone/112) neue 3rdParty, Mongo 5.0
 
 2025.2.0.1 **13.01.2025**
 > fix [#10740]({{page.github}}issues/10740) Nach Release von 2025.02: <code>db.adminCommand( { setFeatureCompatibilityVersion: "5.0" } )</code>
