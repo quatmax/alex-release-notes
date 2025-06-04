@@ -5,11 +5,19 @@ nav_order: 2
 wiki: https://alex-wiki.bitfactory.at/index.php/
 s3: https://s3.amazonaws.com/releases.bitfactory.at.
 github: https://github.com/bitfactory-software/alex/
+issue: https://github.com/bitfactory-software/alex/issues
 merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b>
 ---
 
 [64 bit]({{page.s3}}{{page.title}}/ALEX64.zip){: .btn .mr-2 }
 [32 bit]({{page.s3}}{{page.title}}/ALEX32.zip){: .btn .mr-2 }
+
+### [2025.06]({{page.github}}milestone/32) Irgendeine Beschreibung
+___
+
+2025.6.0.0 **04.06.2025**
+>fix: [#2197]({{page.issues}}/11558) "Hauptseite" funktioniert nicht mehr
+
 
 ### [2019.04]({{page.github}}milestone/32) Regression Tests für Exports, Planer Cockpit
 ___
