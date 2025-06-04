@@ -13,7 +13,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 [Version 2024](Intern:Version_2024_History)
 
 ## in Entwicklung
-### [{{page.github}}milestone/122](2025.16)
+### [2025.16]({{page.github}}milestone/122)
 
 2025.15.90.5 **04.06.2025** {{page.merge}} 2025.13.99.5
 
@@ -29,7 +29,7 @@ merge: <b class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-300">Merge</b
 > Init
 
 ## wird stabilisiert
-### [{{page.github}}milestone/117](2025.14) RefExports auch für #RefDB
+### [2025.14]({{page.github}}milestone/117) RefExports auch für #RefDB
 
 2025.13.99.5 **04.06.2025**
 > neu [#11516]({{page.github}}issues/11516) ÖAMTC Wien: Selbstbediener Stempeluhr
